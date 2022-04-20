@@ -10,4 +10,5 @@ function listarTodosOsFilmes(filmes) {
     console.log(filmes[i].titulo);
   }
 }
+
 listarTodosOsFilmes(catalogoObj.data);
